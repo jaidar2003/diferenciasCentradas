@@ -9,7 +9,7 @@ Este proyecto implementa en Java una herramienta para aproximar derivadas de fun
 El método de diferencias centradas permite **aproximar la derivada de una función** a partir de valores discretos. Se define como:
 
 <p align="center">
-  <img src="./assets/formula.png" alt="Fórmula de diferencias centradas" width="300"/>
+  <img src="./assets/img.png" alt="Fórmula de diferencias centradas" width="300"/>
 </p>
 
 También puede representarse como:
